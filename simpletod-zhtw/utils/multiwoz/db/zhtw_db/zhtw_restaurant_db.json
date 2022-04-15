@@ -1,0 +1,1761 @@
+[
+    {
+        "地址": "市中心攝政街",
+        "區域": "中心",
+        "食物": "義大利的",
+        "id": "19210",
+        "introduction": "Pizza hut is a large chain with restaurants nationwide offering convenience pizzas pasta and salads to eat in or take away",
+        "location": [
+            52.20103,
+            0.126023
+        ],
+        "名稱": "市中心必勝客",
+        "電話": "01223323737",
+        "郵編": "cb21ab",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "紐馬克特路芬德斯角",
+        "區域": "東方",
+        "食物": "國際的",
+        "id": "30650",
+        "introduction": "",
+        "location": [
+            52.21768,
+            0.224907
+        ],
+        "名稱": "失蹤的襪子餐廳",
+        "電話": "01223812660",
+        "郵編": "cb259aq",
+        "價格範圍": "便宜的",
+        "signature": "african babooti",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心攝政街106號",
+        "區域": "中心",
+        "食物": "印度的",
+        "id": "19214",
+        "introduction": "curry garden serves traditional indian and bangladeshi cuisine cooked with fresh produce delivered every day",
+        "location": [
+            52.200187,
+            0.126407
+        ],
+        "名稱": "咖哩之家",
+        "電話": "01223302330",
+        "郵編": "cb21dp",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切裡欣頓的切裡欣頓路82號",
+        "區域": "南方",
+        "食物": "中國的",
+        "id": "19192",
+        "location": [
+            52.188528,
+            0.140627
+        ],
+        "名稱": "好運中餐外賣",
+        "電話": "01223244149",
+        "郵編": "cb17ag",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切裡欣頓劍橋休閒公園克利夫頓路g4",
+        "區域": "南方",
+        "食物": "義大利的",
+        "id": "19196",
+        "introduction": "pizza hut is a large chain with restaurants nationwide offering convenience pizzas pasta and salads to eat in or take away",
+        "location": [
+            52.190176,
+            0.13699
+        ],
+        "名稱": "必勝客櫻桃辛頓",
+        "電話": "01223323737",
+        "郵編": "cb17dy",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切裡欣頓的切裡欣頓路64號",
+        "區域": "南方",
+        "食物": "印度的",
+        "id": "19191",
+        "introduction": "taj tandoori serves a variety of indian dishes to eat in or take away catering for private parties of up to 50 guests is available upon request",
+        "location": [
+            52.188747,
+            0.138941
+        ],
+        "名稱": "泰姬唐杜裡餐廳",
+        "電話": "01223412299",
+        "郵編": "cb17aa",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "希爾斯路152 - 154號",
+        "區域": "南方",
+        "食物": "現代歐洲的",
+        "id": "14731",
+        "introduction": "",
+        "location": [
+            52.18889,
+            0.13589
+        ],
+        "名稱": "美食餐廳",
+        "電話": "01223413000",
+        "郵編": "cb28pb",
+        "價格範圍": "中等的",
+        "signature": "slowroast sirloin of beef red onion celeriac and garlic",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "芬迪頓紐馬克特路529號",
+        "區域": "東方",
+        "食物": "中國的",
+        "id": "19273",
+        "introduction": "yu garden serves authentic chinese cuisine",
+        "location": [
+            52.212992,
+            0.157569
+        ],
+        "名稱": "豫園",
+        "電話": "01223248882",
+        "郵編": "cb58pa",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心市集山",
+        "區域": "中心",
+        "食物": "義大利的",
+        "id": "19240",
+        "location": [
+            52.205442,
+            0.119706
+        ],
+        "名稱": "車站餐廳咖啡吧",
+        "電話": "01223352607",
+        "郵編": "cb23nj",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "芬迪頓紐馬克特路451號",
+        "區域": "東方",
+        "食物": "印度的",
+        "id": "19270",
+        "introduction": "curry prince is a neighbourhood indian restaurant serving authentic cuisine",
+        "location": [
+            52.213072,
+            0.149771
+        ],
+        "名稱": "咖哩王子餐廳",
+        "電話": "01223566388",
+        "郵編": "cb58jj",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心攝政街",
+        "區域": "中心",
+        "食物": "中國的",
+        "id": "19212",
+        "introduction": "charlie chan serves a variety of popular chinese dishes at their restaurant",
+        "location": [
+            52.201743,
+            0.124843
+        ],
+        "名稱": "陳查理餐廳",
+        "電話": "01223361763",
+        "郵編": "cb21db",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心自由校園巷",
+        "區域": "中心",
+        "食物": "歐洲的",
+        "id": "19245",
+        "introduction": "eraina serves a variety of drinks and european dishes with influences from france spain italy and greece catering for vegetarians is also provided",
+        "location": [
+            52.203708,
+            0.119082
+        ],
+        "名稱": "伊萊娜",
+        "電話": "01223368786",
+        "郵編": "cb23rh",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心攝政街",
+        "區域": "中心",
+        "食物": "義大利的",
+        "id": "19213",
+        "introduction": "the simple menu and kitchen concept at pizza express has retained its freshly made ideal and you can still watch your pizza being prepared for you",
+        "location": [
+            52.201743,
+            0.124843
+        ],
+        "名稱": "披薩快遞",
+        "電話": "01223324033",
+        "郵編": "cb21db",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心攝政街德維爾阿姆斯大學酒店",
+        "區域": "中心",
+        "食物": "英國的",
+        "id": "19211",
+        "introduction": "adjoining the de vere university arms restaurant one seven is located at the forefront of regent street, and provides a birds eye view to take in the hustle and bustle of the busy city. Enjoy beautifully created food which is always complemented by a fine selection of wines in a truly relaxing and contemporary atmosphere",
+        "location": [
+            52.20103,
+            0.126023
+        ],
+        "名稱": "一七飯店",
+        "電話": "01223337766",
+        "郵編": "cb21ab",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心橋樑街12號",
+        "區域": "中心",
+        "食物": "義大利的",
+        "id": "19229",
+        "introduction": "ask is a leading name in the uk casual dining market with over 100 restaurants across the uk. ask is the perfect place to relax and enjoy mouthwatering risottos an extended range of hearty al forno dishes and all your favourite pastas pizzas and salads",
+        "location": [
+            52.209028,
+            0.118296
+        ],
+        "名稱": "問餐廳",
+        "電話": "01223364917",
+        "郵編": "cb21uf",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心豌豆山11號",
+        "區域": "中心",
+        "食物": "中國的",
+        "id": "19242",
+        "introduction": "jinling noodle bar serves a wide range of chinese and shanghai dishes reflecting many different flavours and ingredients",
+        "location": [
+            52.204453,
+            0.118693
+        ],
+        "名稱": "金陵飯店",
+        "電話": "01223566188",
+        "郵編": "cb23pp",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "攝政街83號",
+        "區域": "中心",
+        "食物": "現代歐洲的",
+        "id": "3697",
+        "introduction": "de luca cucina bar in the heart of cambridge is a stylish spot to enjoy food, wine, cocktails and coffee all in a vibrant atmosphere. The cocktail bar at the front is perfect for coffee and light meals in the day and cocktails in the evening. An open kitchen provides real excitement with head chef darren kiegher and his team preparing simply delicious italian food using locally sourced ingredients.",
+        "location": [
+            52.2002,
+            0.1268
+        ],
+        "名稱": "德魯納烹飪酒吧",
+        "電話": "01223356666",
+        "郵編": "cb21aw",
+        "價格範圍": "中等的",
+        "signature": "roasted barbary duck breast served with sweet potato wedges and mange tout with a red wine sauce",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心斯圖頓街2號",
+        "區域": "中心",
+        "食物": "小酒館",
+        "id": "19188",
+        "introduction": "the backstreet bistro is a gastropub with a separate bar area serving a couple of good real ales and a dining room serving modern european food. There is a decked area to sit out in during the summer months",
+        "location": [
+            52.202449,
+            0.141062
+        ],
+        "名稱": "后街小酒館",
+        "電話": "01223306306",
+        "郵編": "cb12qa",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切斯特頓希斯頓路68號",
+        "區域": "西部",
+        "食物": "印度的",
+        "id": "19266",
+        "introduction": "tandoori palace serve a variety of indian and bangladeshi dishes and can cater for private parties of up to 110 guests upon request",
+        "location": [
+            52.215486,
+            0.111167
+        ],
+        "名稱": "泥爐炭火烹飪法宮",
+        "電話": "01223506055",
+        "郵編": "cb43le",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "米爾巷格蘭塔廣場劍橋希爾頓逸林酒店",
+        "區域": "中心",
+        "食物": "現代歐洲的",
+        "id": "10347",
+        "introduction": "",
+        "location": [
+            52.20025,
+            0.11659
+        ],
+        "名稱": "河畔啤酒莊",
+        "電話": "01223259988",
+        "郵編": "cb21rt",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心米爾路74號",
+        "區域": "中心",
+        "食物": "印度的",
+        "id": "19180",
+        "introduction": "kohinoor serves a variety of indian and vegetarian dishes at their restaurant a takeaway and delivery service is also available",
+        "location": [
+            52.200422,
+            0.135784
+        ],
+        "名稱": "科希努爾",
+        "電話": "01223323639",
+        "郵編": "cb12as",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切裡欣頓的切裡欣頓路劍橋休閒公園2g",
+        "區域": "南方",
+        "食物": "墨西哥的",
+        "id": "19194",
+        "introduction": "chiquito is a chain of inexpensive tex mex restaurants predominantly aimed at tourists. They serve a variety of mexican and north of the border food as well as a range of cocktails",
+        "location": [
+            52.190176,
+            0.13699
+        ],
+        "名稱": "奇基託餐廳酒吧",
+        "電話": "01223400170",
+        "郵編": "cb17dy",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "北安普敦路21 - 24號",
+        "區域": "西部",
+        "食物": "義大利的",
+        "id": "12700",
+        "introduction": "",
+        "location": [
+            52.21032,
+            0.11367
+        ],
+        "名稱": "普雷佐餐廳",
+        "電話": "01799521260",
+        "郵編": "cb30ad",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心米爾路88號",
+        "區域": "中心",
+        "食物": "中國的",
+        "id": "19185",
+        "introduction": "rice house serve a variety of popular chinese dishes at their restaurant",
+        "location": [
+            52.199332,
+            0.138395
+        ],
+        "名稱": "米飯之家",
+        "電話": "01223367755",
+        "郵編": "cb12bd",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心希爾斯路59號",
+        "區域": "中心",
+        "食物": "黎巴嫩的",
+        "id": "19221",
+        "location": [
+            52.195416,
+            0.13114
+        ],
+        "名稱": "阿里巴巴餐廳",
+        "電話": "01462432565",
+        "郵編": "cb21nt",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心聖安德魯斯街35號",
+        "區域": "中心",
+        "食物": "國際的",
+        "id": "19235",
+        "introduction": "the varsity restaurant serves a variety of international and vegetarian dishes and can cater for private parties of up to 40 guests upon request",
+        "location": [
+            52.202793,
+            0.123488
+        ],
+        "名稱": "瓦爾斯蒂飯店",
+        "電話": "01223356060",
+        "郵編": "cb23ar",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心國王街40270號",
+        "區域": "中心",
+        "食物": "現代歐洲的",
+        "id": "19177",
+        "introduction": "darrys cookhouse and wine shop is an award winning drinking and dining restaurant and bar in the centre of cambridge",
+        "location": [
+            52.207312,
+            0.124201
+        ],
+        "名稱": "達裡的廚房酒館",
+        "電話": "01223505015",
+        "郵編": "cb11ln",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心米爾路",
+        "區域": "中心",
+        "食物": "印度的",
+        "id": "19182",
+        "introduction": "the golden curry serves a variety of authentic indian dishes at their fully licensed restaurant",
+        "location": [
+            52.199289,
+            0.13974
+        ],
+        "名稱": "黃金咖哩餐廳",
+        "電話": "01223329432",
+        "郵編": "cb12az",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心城堡街71號",
+        "區域": "西部",
+        "食物": "印度的",
+        "id": "19249",
+        "introduction": "cocum specialises in south indian cuisine using spices meat and vegetables from the kerala region there is also a take away option",
+        "location": [
+            52.212444,
+            0.112823
+        ],
+        "名稱": "沃阿巴河",
+        "電話": "01223366668",
+        "郵編": "cb30ah",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心三一街聖邁克爾教堂",
+        "區域": "中心",
+        "食物": "歐洲的",
+        "id": "19227",
+        "introduction": "digby trout is a chain of restaurants that are located in many of london's premier tourist attractions. they serve modern european cuisine and are open for lunch and dinner. situated in st michaels church, michaelhouse cafe serves coffee sandwiches and lunch from a regularly changing menu",
+        "location": [
+            52.20608,
+            0.118215
+        ],
+        "名稱": "邁克爾咖啡屋",
+        "電話": "01223309147",
+        "郵編": "cb21su",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "紐漢姆的紐漢姆路37號",
+        "區域": "西部",
+        "食物": "印度的",
+        "id": "19255",
+        "introduction": "the rice boat serves an authentic kind of indian cuisine that originates from the villages of kerala where the spice trade originated",
+        "location": [
+            52.199012,
+            0.113196
+        ],
+        "名稱": "魚米之鄉",
+        "電話": "01223302800",
+        "郵編": "cb39ey",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "特蘭平頓街15 - 19號",
+        "區域": "中心",
+        "食物": "歐洲的",
+        "id": "4607",
+        "introduction": "",
+        "location": [
+            52.19934,
+            0.12146
+        ],
+        "名稱": "溫恩德比斯特劍橋酒店",
+        "電話": "01223227330",
+        "郵編": "cb21qa",
+        "價格範圍": "中等的",
+        "signature": "",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心城堡街41518號",
+        "區域": "西部",
+        "食物": "印度的",
+        "id": "19250",
+        "introduction": "maharajah tandoori restaurant serve a variety of indian and tandoori dishes at their restaurant catering for private parties of up to 40 guests is available upon request",
+        "location": [
+            52.212444,
+            0.112823
+        ],
+        "名稱": "王公唐杜裡餐廳",
+        "電話": "01223358399",
+        "郵編": "cb30ah",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "唐寧街20號皇冠假日酒店",
+        "區域": "中心",
+        "食物": "國際的",
+        "id": "14742",
+        "introduction": "",
+        "location": [
+            52.20342,
+            0.12171
+        ],
+        "名稱": "布魯姆斯伯裡餐廳",
+        "電話": "08719429180",
+        "郵編": "cb23dt",
+        "價格範圍": "中等的",
+        "signature": "coconut and red chilli monkfish",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心麥格達倫大街17號",
+        "區域": "西部",
+        "食物": "越南的",
+        "id": "19248",
+        "introduction": "thanh binh serve a variety of vietnamese dishes as well as selling an assortment of tea and coffees",
+        "location": [
+            52.210226,
+            0.115646
+        ],
+        "名稱": "檀檳飯店",
+        "電話": "01223362456",
+        "郵編": "cb30af",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "橋樑街14-16號",
+        "區域": "中心",
+        "食物": "西班牙的",
+        "id": "12566",
+        "introduction": "la tasca is a spanish tapas restaurant and bar offering over 30 tapas dishes",
+        "location": [
+            52.20903,
+            0.1183
+        ],
+        "名稱": "拉塔斯卡西班牙餐廳",
+        "電話": "01223464630",
+        "郵編": "cb21uf",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切斯特頓米爾頓路20號",
+        "區域": "北方",
+        "食物": "義大利的",
+        "id": "19259",
+        "introduction": "da Vinci pizzeria serve an extensive range of pizza and italian dishes as well as some vegetarian options a takeaway and delivery service is also available",
+        "location": [
+            52.215311,
+            0.12593
+        ],
+        "名稱": "達芬奇披薩餐廳",
+        "電話": "01223351707",
+        "郵編": "cb41jy",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切斯特頓的切斯特頓路22號",
+        "區域": "北方",
+        "食物": "法國的",
+        "id": "19264",
+        "location": [
+            52.213742,
+            0.1242
+        ],
+        "名稱": "二號餐廳",
+        "電話": "01223351880",
+        "郵編": "cb43ax",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心聖約翰街12號",
+        "區域": "中心",
+        "食物": "中國的",
+        "id": "19228",
+        "introduction": "ugly duckling serves a variety of chinese dishes to eat in or take away they also offer 10 percent discount on takeaway orders",
+        "location": [
+            52.208055,
+            0.118397
+        ],
+        "名稱": "醜小鴨餐廳",
+        "郵編": "cb21tw",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "聖安德魯斯街36號",
+        "區域": "中心",
+        "食物": "日本的",
+        "id": "12638",
+        "introduction": "",
+        "location": [
+            52.203,
+            0.12375
+        ],
+        "名稱": "拉麵道",
+        "電話": "01223462354",
+        "郵編": "cb23ar",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心諾福克街12號",
+        "區域": "中心",
+        "食物": "中國的",
+        "id": "19186",
+        "introduction": "lan hong house serves great value home cooked authentic chinese food with over two five dishes available from the buffet",
+        "location": [
+            52.204609,
+            0.137976
+        ],
+        "名稱": "蘭香樓",
+        "電話": "01223350420",
+        "郵編": "cb12lf",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "劍橋休閒公園克利夫頓路",
+        "區域": "南方",
+        "食物": "葡萄牙的",
+        "id": "12238",
+        "introduction": "It's Nandos",
+        "location": [
+            52.19017,
+            0.13699
+        ],
+        "名稱": "南多斯烤雞店",
+        "電話": "01223327908",
+        "郵編": "cb17dy",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "倫茲菲爾德路6號",
+        "區域": "中心",
+        "食物": "英國的",
+        "id": "13071",
+        "introduction": "",
+        "location": [
+            52.1987,
+            0.12578
+        ],
+        "名稱": "橡樹小酒館",
+        "電話": "01223323361",
+        "郵編": "cb21eg",
+        "價格範圍": "中等的",
+        "signature": "chargrilled rib eye steak with truffle butter mixed salad and fries",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心國王街4號",
+        "區域": "中心",
+        "食物": "英國的",
+        "id": "19226",
+        "introduction": "the copper kettle serve a variety of english dishes at their restaurant including full english breakfasts lunches, roast dinners and baked potatoes. a takeaway menu is also provided",
+        "location": [
+            52.204387,
+            0.117841
+        ],
+        "名稱": "銅壺餐廳",
+        "電話": "01223365068",
+        "郵編": "cb21sj",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切裡欣頓劍橋休閒公園克利夫頓路",
+        "區域": "南方",
+        "食物": "中國的",
+        "id": "19197",
+        "location": [
+            52.190176,
+            0.13699
+        ],
+        "名稱": "幸運星民宿",
+        "電話": "01223244277",
+        "郵編": "cb17dy",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心特蘭平頓街51號",
+        "區域": "中心",
+        "食物": "英國的",
+        "id": "19224",
+        "introduction": "fitzbillies restaurant serves a variety of bistro style lunches, anglo-european a la carte evening meals, as well as teas coffees and cakes throughout the day. catering for private parties is available upon request",
+        "location": [
+            52.202598,
+            0.118342
+        ],
+        "名稱": "費茲畢麗斯餐廳",
+        "電話": "01223352500",
+        "郵編": "cb21rg",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心攝政街108號",
+        "區域": "中心",
+        "食物": "韓國的",
+        "id": "19216",
+        "introduction": "little seoul offer a variety of korean cuisine for lunch and dinner",
+        "location": [
+            52.200187,
+            0.126407
+        ],
+        "名稱": "小首爾",
+        "電話": "01223308681",
+        "郵編": "cb21dp",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心米爾路196號",
+        "區域": "中心",
+        "食物": "土耳其的",
+        "id": "19189",
+        "introduction": "meze is a restaurant and bar that serves tasty and fresh turkish cuisine set in an informal relaxed atmosphere the bar area also serves a wide range of beers wines and spirits",
+        "location": [
+            52.197349,
+            0.145075
+        ],
+        "名稱": "梅澤酒吧",
+        "郵編": "cb13nf",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心磨坊場40210號",
+        "區域": "中心",
+        "食物": "亞洲東方的",
+        "id": "19225",
+        "introduction": "dojo noodle bar serves a variety of japanese chinese vietnamese korean and malaysian dishes to eat in or take away sister restaurant to touzai",
+        "location": [
+            52.201423,
+            0.116661
+        ],
+        "名稱": "道焦麵館",
+        "電話": "01223363471",
+        "郵編": "cb21rq",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心麥格達倫大街15號",
+        "區域": "西部",
+        "食物": "義大利的",
+        "id": "19247",
+        "introduction": "la margherita serve a variety of italian and vegetarian dishes at their restaurant",
+        "location": [
+            52.210226,
+            0.115646
+        ],
+        "名稱": "拉瑪格里塔餐廳",
+        "電話": "01223315232",
+        "郵編": "cb30af",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心國王街40428號",
+        "區域": "中心",
+        "食物": "亞洲東方的",
+        "id": "19175",
+        "introduction": "yippee noodle bar serves a variety of oriental and vegetarian dishes at their restaurant they also have a bar area and offer a take away service",
+        "location": [
+            52.207446,
+            0.122788
+        ],
+        "名稱": "味美麵館",
+        "電話": "01223518111",
+        "郵編": "cb11lh",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切斯特頓米爾頓路7號",
+        "區域": "北方",
+        "食物": "印度的",
+        "id": "19263",
+        "location": [
+            52.215157,
+            0.125015
+        ],
+        "名稱": "尼拉拉",
+        "電話": "01223360966",
+        "郵編": "cb41uy",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心東路183號",
+        "區域": "中心",
+        "食物": "英國的",
+        "id": "19171",
+        "introduction": "cotto is a restaurant cafe and bakery all rolled in to one. The restaurant upstairs is open for dinner from wednesday to saturday consisting of one menu of between three to five dishes tailored to the day the cafe and bakery offer cakes and other delicacies",
+        "location": [
+            52.204703,
+            0.133238
+        ],
+        "名稱": "庫託餐廳",
+        "電話": "01223302010",
+        "郵編": "cb11bg",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "北安普敦街21 - 24號",
+        "區域": "西部",
+        "食物": "英國的",
+        "id": "14810",
+        "introduction": "",
+        "location": [
+            52.21031,
+            0.11381
+        ],
+        "名稱": "聖約翰小飯館",
+        "電話": "01223353110",
+        "郵編": "cb30ad",
+        "價格範圍": "中等的",
+        "signature": "barnsley chop braised potatoes roast celeriac red cabbage and port sauce",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "芬迪頓紐馬克特路劍橋購物區",
+        "區域": "東方",
+        "食物": "義大利的",
+        "id": "19275",
+        "introduction": "pizza hut is a large chain with restaurants nationwide offering convenience pizzas pasta and salads to eat in or take away",
+        "location": [
+            52.209742,
+            0.146975
+        ],
+        "名稱": "芬迪頓必勝客",
+        "電話": "01223323737",
+        "郵編": "cb58wr",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心倫茲菲爾德路12號",
+        "區域": "中心",
+        "食物": "中國的",
+        "id": "19219",
+        "location": [
+            52.198696,
+            0.12578
+        ],
+        "名稱": "回味軒",
+        "電話": "01842753771",
+        "郵編": "cb21eg",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心攝政街86號",
+        "區域": "中心",
+        "食物": "亞洲東方的",
+        "id": "19215",
+        "introduction": "j restaurant offers a wide variety of sushi noodles and dim sum to eat in or takeaway a home delivery service is also available",
+        "location": [
+            52.200187,
+            0.126407
+        ],
+        "名稱": "傑飯店",
+        "電話": "01223307581",
+        "郵編": "cb21dp",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "橋樑街33號",
+        "區域": "中心",
+        "食物": "歐洲的",
+        "id": "6780",
+        "introduction": "",
+        "location": [
+            52.20951,
+            0.11669
+        ],
+        "名稱": "格樂麗雅",
+        "電話": "01223362054",
+        "郵編": "cb21uw",
+        "價格範圍": "中等的",
+        "signature": "poached fillets of monkfish in lemongrass with sweet red chilli cream sauce and tiger prawns with leeks and mushrooms served with rice",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "考恩劇院街",
+        "區域": "中心",
+        "食物": "小酒館",
+        "id": "31390",
+        "introduction": "",
+        "location": [
+            52.204424,
+            0.12046
+        ],
+        "名稱": "小牛披薩餐廳酒吧",
+        "電話": "01223308871",
+        "郵編": "cb23qf",
+        "價格範圍": "中等的",
+        "signature": "wasabi spiked hamburger",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心米爾路100號",
+        "區域": "中心",
+        "食物": "非洲的",
+        "id": "19183",
+        "introduction": "bedouin serves algerian cuisine",
+        "location": [
+            52.199332,
+            0.138395
+        ],
+        "名稱": "貝都因",
+        "電話": "01223367660",
+        "郵編": "cb12bd",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心新月玫瑰2號",
+        "區域": "中心",
+        "食物": "地中海的",
+        "id": "19238",
+        "introduction": "the gardenia serves a variety of authentic greek and mediterranean dishes at their restaurant catering for private parties of up to two five guests is available upon request",
+        "location": [
+            52.206098,
+            0.118713
+        ],
+        "名稱": "梔子花餐廳",
+        "電話": "01223356354",
+        "郵編": "cb23ll",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "攝政街47 - 53號",
+        "區域": "中心",
+        "食物": "義大利的",
+        "id": "29652",
+        "introduction": "",
+        "location": [
+            52.201116,
+            0.125712
+        ],
+        "名稱": "劍橋滋意餐廳",
+        "電話": "01223365599",
+        "郵編": "cb21ab",
+        "價格範圍": "便宜的",
+        "signature": "piccante rustica pizza, a spicy sausage salami mascarpone and roquito chilli",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "芬迪頓紐馬克特路",
+        "區域": "東方",
+        "食物": "印度的",
+        "id": "19272",
+        "introduction": "pipasha restaurant serves a variety of indian dishes to eat in or take away a delivery service is also available",
+        "location": [
+            52.212992,
+            0.157569
+        ],
+        "名稱": "皮帕莎餐廳",
+        "電話": "01223577786",
+        "郵編": "cb58pa",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "聖安德魯斯街33 - 34號",
+        "區域": "中心",
+        "食物": "葡萄牙的",
+        "id": "12237",
+        "introduction": "",
+        "location": [
+            52.203,
+            0.12375
+        ],
+        "名稱": "南多斯市中心",
+        "電話": "01223327908",
+        "郵編": "cb23ar",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切斯特頓維多利亞大道",
+        "區域": "北方",
+        "食物": "印度的",
+        "id": "19257",
+        "location": [
+            52.213853,
+            0.125509
+        ],
+        "名稱": "皇家香料餐廳",
+        "電話": "01733553355",
+        "郵編": "cb41eh",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切斯特頓米爾頓路",
+        "區域": "北方",
+        "食物": "中國的",
+        "id": "19260",
+        "introduction": "A unique treat for all lovers of Chinese cuisine. From the Spice Islands to the food streets of Beijing and the finest ocean catch.",
+        "location": [
+            52.215311,
+            0.12593
+        ],
+        "名稱": "客家",
+        "電話": "01223568988",
+        "郵編": "cb41jy",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "新月玫瑰4 - 6號",
+        "區域": "中心",
+        "食物": "西班牙的",
+        "id": "19237",
+        "introduction": "",
+        "location": [
+            52.206098,
+            0.118713
+        ],
+        "名稱": "拉拉薩酒店",
+        "電話": "01223464550",
+        "郵編": "cb23ll",
+        "價格範圍": "便宜的",
+        "signature": "seafood paella",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心攝政街72號",
+        "區域": "中心",
+        "食物": "印度的",
+        "id": "19218",
+        "introduction": "the gandhi serves a variety of indian and bangladeshi dishes at their restaurant to eat in or take away. Catering for private parties of up to 140 guests is available upon request",
+        "location": [
+            52.200187,
+            0.126407
+        ],
+        "名稱": "甘地餐廳",
+        "電話": "01223353942",
+        "郵編": "cb21dp",
+        "價格範圍": "便宜的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切斯特頓希斯頓路191號",
+        "區域": "北方",
+        "食物": "中國的",
+        "id": "19265",
+        "introduction": "the golden wok serves a variety of traditional chinese meals including sweet and sour dishes as well as rice and noodles",
+        "location": [
+            52.220757,
+            0.111564
+        ],
+        "名稱": "福來居",
+        "電話": "01223350688",
+        "郵編": "cb43hl",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切斯特頓維多利亞大道205號",
+        "區域": "西部",
+        "食物": "印度的",
+        "id": "19267",
+        "location": [
+            52.215077,
+            0.112421
+        ],
+        "名稱": "梅格納餐廳",
+        "電話": "01223727410",
+        "郵編": "cb43lf",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心希爾斯路",
+        "區域": "中心",
+        "食物": "印度的",
+        "id": "19220",
+        "introduction": "the saffron brasserie serve a variety of dishes from their contemporary indian and bangladeshi menu. Catering for private parties of up to 100 guests is available upon request",
+        "location": [
+            52.196862,
+            0.129248
+        ],
+        "名稱": "藏紅花法式餐廳",
+        "電話": "01223354679",
+        "郵編": "cb21la",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "芬迪頓湯姆森巷",
+        "區域": "中心",
+        "食物": "地中海的",
+        "id": "19268",
+        "location": [
+            52.210013,
+            0.118007
+        ],
+        "名稱": "拉米莫薩餐廳",
+        "電話": "01223362525",
+        "郵編": "cb58aq",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心伯利街39號",
+        "區域": "中心",
+        "食物": "中國的",
+        "id": "19173",
+        "introduction": "shanghai family restaurant comprises a french cafe on the lower level and a chinese restaurant upstairs",
+        "location": [
+            52.206111,
+            0.132969
+        ],
+        "名稱": "上海人家",
+        "電話": "01223301761",
+        "郵編": "cb11dg",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "特蘭平頓街37號小玫瑰",
+        "區域": "中心",
+        "食物": "海鮮",
+        "id": "19223",
+        "introduction": "using the freshest seafood from the loch of the same name, loch fyne restaurants serve a variety of shellfish and smoked fish all of which are complimented by an extensive wine list. Non-seafood dishes are also available",
+        "location": [
+            52.200693,
+            0.119744
+        ],
+        "名稱": "洛克凡",
+        "電話": "01223362433",
+        "郵編": "cb21qy",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "米爾巷磨坊場3 - 5號",
+        "區域": "中心",
+        "食物": "印度的",
+        "id": "15275",
+        "introduction": "",
+        "location": [
+            52.20143,
+            0.11664
+        ],
+        "名稱": "劍橋馬哈爾餐廳",
+        "電話": "01223360409",
+        "郵編": "cb21rq",
+        "價格範圍": "便宜的",
+        "signature": "chicken tikka masala",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "芬迪頓耶穌巷",
+        "區域": "中心",
+        "食物": "義大利的",
+        "id": "19269",
+        "introduction": "the simple menu and kitchen concept at pizza express has retained its freshly made ideal, and you can still watch your pizza being prepared for you. This branch has live jazz music",
+        "location": [
+            52.208252,
+            0.119957
+        ],
+        "名稱": "芬迪頓披薩快餐",
+        "電話": "01223324033",
+        "郵編": "cb58ba",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "紐漢姆紐漢姆路35號",
+        "區域": "西部",
+        "食物": "泰國",
+        "id": "19256",
+        "introduction": "sala thong serves a variety of thai dishes at their restaurant catering for private parties of up to 40 guests is available upon request",
+        "location": [
+            52.199012,
+            0.113196
+        ],
+        "名稱": "薩拉通餐廳",
+        "電話": "01223323178",
+        "郵編": "cb39ey",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切斯特頓米爾頓路劍橋城市足球俱樂部",
+        "區域": "北方",
+        "id": "19262",
+        "introduction": "located in cambridge city football club, city stop restaurant serve a variety of english and italian dishes as well as offering a selection of vegetarian options catering for corporate events and private parties of up to 100 guests is available upon request.",
+        "location": [
+            52.215157,
+            0.125015
+        ],
+        "名稱": "城市驛站餐廳",
+        "電話": "01223363270",
+        "郵編": "cb41uy",
+        "價格範圍": "昂貴的",
+        "食物": "歐洲的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切斯特頓的切斯特頓高街169號",
+        "區域": "北方",
+        "食物": "亞洲東方的",
+        "id": "19261",
+        "introduction": "saigon city serve vietnamese chinese and thai cuisine to eat in or take away",
+        "location": [
+            52.218164,
+            0.143209
+        ],
+        "名稱": "西貢市",
+        "電話": "01223356555",
+        "郵編": "cb41nl",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心荷馬頓街10號",
+        "區域": "南方",
+        "食物": "中國的",
+        "id": "19246",
+        "introduction": "peking resturant cook from fresh ingredients. they specialise in sichuan and hunan dishes",
+        "location": [
+            52.189484,
+            0.135465
+        ],
+        "名稱": "北京餐館",
+        "電話": "01223354755",
+        "郵編": "cb28nx",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切裡欣頓劍橋休閒公園克利夫頓路",
+        "區域": "南方",
+        "食物": "義大利的",
+        "id": "19195",
+        "introduction": "frankie and bennys has a traditional 1950s new york feel to it with its original family photographs, traditional wooden furniture and period music. They serve a wide range of authentic american and italian dishes.",
+        "location": [
+            52.190176,
+            0.13699
+        ],
+        "名稱": "弗蘭基&本尼",
+        "電話": "01223412430",
+        "郵編": "cb17dy",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "亨廷頓路白宮巷菲利克斯酒店",
+        "區域": "西部",
+        "食物": "英國的",
+        "id": "7492",
+        "introduction": "Critically acclaimed food in luxurious and stylish surroundings, overlooking the hotels lush gardens.",
+        "location": [
+            52.22414,
+            0.09194
+        ],
+        "名稱": "塗鴉館",
+        "電話": "01223277977",
+        "郵編": "cb30lx",
+        "價格範圍": "昂貴的",
+        "signature": "panfried fillet of brill tempura of langoustine crushed garden peas shellfish basil nage",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "紐漢姆的紐漢姆路31號",
+        "區域": "西部",
+        "食物": "印度的",
+        "id": "19254",
+        "introduction": "indian house serve a variety of indian dishes to eat in or take away they also have a selection of english dishes on their menu",
+        "location": [
+            52.199012,
+            0.113196
+        ],
+        "名稱": "印度之家餐廳",
+        "電話": "01223461661",
+        "郵編": "cb39ey",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心亨廷頓路139號劍橋洛奇酒店",
+        "區域": "西部",
+        "食物": "歐洲的",
+        "id": "19252",
+        "introduction": "located in the cambridge lodge hotel, this restaurant serves a variety of european and vegetarian dishes and can cater for private parties of up to 20 guests upon request.",
+        "location": [
+            52.217736,
+            0.102505
+        ],
+        "名稱": "劍橋旅館餐廳",
+        "電話": "01223355166",
+        "郵編": "cb30dq",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "芬迪頓紐馬克特路619號格拉夫頓酒店",
+        "區域": "東方",
+        "食物": "英國的",
+        "id": "19271",
+        "introduction": "located in the grafton hotel this restaurant serves a variety of english and vegetarian dishes from their a la carte and carvery menu. They also have a bar area",
+        "location": [
+            52.212992,
+            0.157569
+        ],
+        "名稱": "格拉夫頓酒店餐廳",
+        "電話": "01223241387",
+        "郵編": "cb58pa",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切斯特頓的切斯特頓路66號",
+        "區域": "北方",
+        "食物": "中國的",
+        "id": "19258",
+        "introduction": "the hotpot serves a variety of chinese dishes at their restaurant and can cater for private parties of up to five five guests upon request",
+        "location": [
+            52.214531,
+            0.127298
+        ],
+        "名稱": "火鍋店",
+        "電話": "01223366552",
+        "郵編": "cb41ep",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "橋樑街外碼頭街",
+        "區域": "中心",
+        "食物": "現代歐洲的",
+        "id": "7236",
+        "introduction": "",
+        "location": [
+            52.20984,
+            0.11793
+        ],
+        "名稱": "河畔牛排燒烤店",
+        "電話": "01223307030",
+        "郵編": "cb58aq",
+        "價格範圍": "便宜的",
+        "signature": "lobster mac and cheese",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心國王街54號",
+        "區域": "中心",
+        "食物": "義大利的",
+        "id": "19176",
+        "introduction": "clowns cafe serve a variety of drinks as well as italian dishes such as pasta ciabatta and salads",
+        "location": [
+            52.207312,
+            0.124201
+        ],
+        "名稱": "小丑咖啡館",
+        "電話": "01223355711",
+        "郵編": "cb11ln",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心橋樑街30號",
+        "區域": "中心",
+        "食物": "土耳其的",
+        "id": "19232",
+        "introduction": "anatolia is a basement restaurant that serves a variety of turkish and vegetarian dishes and cater for private parties of up to 80 guests upon request",
+        "location": [
+            52.209632,
+            0.117213
+        ],
+        "名稱": "安納托裡亞酒店",
+        "電話": "01223362372",
+        "郵編": "cb21uj",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心諾福克街8號",
+        "區域": "中心",
+        "食物": "印度的",
+        "id": "19187",
+        "location": [
+            52.204609,
+            0.137976
+        ],
+        "名稱": "帕納哈爾餐廳",
+        "電話": "01223355012",
+        "郵編": "cb12lf",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心納皮爾街",
+        "區域": "中心",
+        "食物": "中國的",
+        "id": "19174",
+        "introduction": "tang chinese is a buffet restaurant and bar serving a variety of dishes for lunch and dinner there is also a takeaway menu available",
+        "location": [
+            52.207702,
+            0.133982
+        ],
+        "名稱": "唐人飯店",
+        "電話": "01223357187",
+        "郵編": "cb11hr",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "格林街34 - 35號",
+        "區域": "中心",
+        "食物": "小酒館",
+        "id": "12482",
+        "introduction": "slug lettuce is a premium high street bar that serves a wide range of restaurant quality food to suit all occasions and appetites.",
+        "location": [
+            52.20683,
+            0.1192
+        ],
+        "名稱": "蛞蝓和萵苣餐廳",
+        "郵編": "cb23ju",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心橋樑街喬丹場5號",
+        "區域": "中心",
+        "食物": "印度的",
+        "id": "19231",
+        "introduction": "curry king serve a variety of indian dishes to eat in or take away catering for private parties of up to 40 guests is available upon request",
+        "location": [
+            52.209003,
+            0.118661
+        ],
+        "名稱": "咖哩王",
+        "電話": "01223324351",
+        "郵編": "cb21ug",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心亨廷頓路",
+        "區域": "西部",
+        "食物": "英國的",
+        "id": "19251",
+        "introduction": "",
+        "location": [
+            52.214201,
+            0.108588
+        ],
+        "名稱": "遊客休閒之家酒店",
+        "電話": "01223276182",
+        "郵編": "cb30df",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心米爾路106號",
+        "區域": "中心",
+        "食物": "印度的",
+        "id": "19184",
+        "introduction": "curry queen is the most popular indian restaurant in cambridge serving good indian cuisine including all the usual dishes",
+        "location": [
+            52.199332,
+            0.138395
+        ],
+        "名稱": "咖哩女王",
+        "電話": "01223351027",
+        "郵編": "cb12bd",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心米爾路290號",
+        "區域": "東方",
+        "食物": "小酒館",
+        "id": "19190",
+        "location": [
+            52.196967,
+            0.149286
+        ],
+        "名稱": "皇家標準酒店",
+        "電話": "01223247877",
+        "郵編": "cb13nl",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "芬迪頓巴恩韋爾路7號",
+        "區域": "東方",
+        "食物": "印度的",
+        "id": "19274",
+        "introduction": "rajmahal serves traditional indian cuisine accomapnied by a broad wine list with beers and spirits also available",
+        "location": [
+            52.211144,
+            0.163247
+        ],
+        "名稱": "拉吉泰姬陵旅館",
+        "電話": "01223244955",
+        "郵編": "cb58rg",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心伯利街21號",
+        "區域": "中心",
+        "食物": "中國的",
+        "id": "19172",
+        "location": [
+            52.206111,
+            0.132969
+        ],
+        "名稱": "港式小廚",
+        "電話": "01223355909",
+        "郵編": "cb11dg",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心國王街",
+        "區域": "中心",
+        "食物": "土耳其的",
+        "id": "19178",
+        "introduction": "efes restaurant serve a variety of turkish dishes including kebabs in truly authentic surroundings.",
+        "location": [
+            52.207312,
+            0.124201
+        ],
+        "名稱": "艾菲斯餐館",
+        "電話": "01223500005",
+        "郵編": "cb11ln",
+        "價格範圍": "中等的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心攝政街",
+        "區域": "中心",
+        "食物": "北美的",
+        "id": "19209",
+        "introduction": "gourmet burger kitchen has a trendy interior and, although a bit more expensive than the average high street burger joint, the delicious burgers and other dishes are huge and freshly prepared with large side orders to match. Catering for vegetarians is provided",
+        "location": [
+            52.20103,
+            0.126023
+        ],
+        "名稱": "美食漢堡廚房",
+        "電話": "01223312598",
+        "郵編": "cb21ab",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心市集山12號",
+        "區域": "中心",
+        "食物": "義大利的",
+        "id": "19239",
+        "introduction": "don pasquale pizzeria serves an extensive range of pizzas and italian dishes including pasta as well as a selection of beverages. Catering for private parties of up to 80 guests is available upon request",
+        "location": [
+            52.205442,
+            0.119706
+        ],
+        "名稱": "唐帕斯誇裡披薩店",
+        "電話": "01223350106",
+        "郵編": "cb23nj",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "國王街1號",
+        "區域": "中心",
+        "食物": "英國的",
+        "id": "6941",
+        "introduction": "",
+        "location": [
+            52.20439,
+            0.11784
+        ],
+        "名稱": "劍橋小飯館",
+        "電話": "01223359506",
+        "郵編": "cb21sj",
+        "價格範圍": "昂貴的",
+        "signature": "lamb barnsley chop potato and garlic bake greens and gravy",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心米爾路52號",
+        "區域": "中心",
+        "食物": "亞洲東方的",
+        "id": "19181",
+        "introduction": "kymmoy is a noodle bar serving a wide variety of chinese thai cuisine for lunch and dinner",
+        "location": [
+            52.200422,
+            0.135784
+        ],
+        "名稱": "基姆莫伊中餐廳",
+        "電話": "01223311911",
+        "郵編": "cb12as",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "切裡欣頓的切裡欣頓路高街43號",
+        "區域": "東方",
+        "食物": "印度的",
+        "id": "19198",
+        "location": [
+            52.186739,
+            0.173048
+        ],
+        "名稱": "西塔泥爐炭火烹飪",
+        "電話": "01223249955",
+        "郵編": "cb19hx",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心攝政街84號",
+        "區域": "中心",
+        "食物": "地中海的",
+        "id": "19217",
+        "introduction": "shiraz serves traditional mediterranean cuisine accompanied by an extensive wine list with beers and spirits also available",
+        "location": [
+            52.200187,
+            0.126407
+        ],
+        "名稱": "西拉餐廳",
+        "電話": "01223307581",
+        "郵編": "cb21dp",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "仲夏公地",
+        "區域": "中心",
+        "食物": "英國的",
+        "id": "508",
+        "introduction": "",
+        "location": [
+            52.21251,
+            0.12774
+        ],
+        "名稱": "仲夏塢餐廳",
+        "電話": "01223369299",
+        "郵編": "cb41ha",
+        "價格範圍": "昂貴的",
+        "signature": "seared scallops with truffle apple and celeriac",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心橋樑街",
+        "區域": "中心",
+        "食物": "法國的",
+        "id": "19230",
+        "introduction": "cote is a modern french bistro offering some of the classic and simple favourites of french cuisine",
+        "location": [
+            52.209028,
+            0.118296
+        ],
+        "名稱": " cote ",
+        "電話": "01223311053",
+        "郵編": "cb21uf",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心橋樑街32號",
+        "區域": "中心",
+        "食物": "義大利的",
+        "id": "19234",
+        "introduction": "caffe uno is a chain of cafe style restaurants that offer a wide selection of meals and snacks to suit any time of the day including an extensive breakfast menu and choice of hot or cold drinks",
+        "location": [
+            52.209632,
+            0.117213
+        ],
+        "名稱": "一號咖啡館",
+        "電話": "01223448620",
+        "郵編": "cb21uj",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心希爾斯路17號",
+        "區域": "中心",
+        "食物": "中國的",
+        "id": "19222",
+        "introduction": "sesame restaurant and bar offers a wide variety of traditional chinese cuisine for lunch or dinner with wifi access and a television screen in the basement",
+        "location": [
+            52.197154,
+            0.129511
+        ],
+        "名稱": "芝麻餐廳酒吧",
+        "電話": "01223358899",
+        "郵編": "cb21nw",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    },
+    {
+        "地址": "市中心格林街24號",
+        "區域": "中心",
+        "食物": "泰國",
+        "id": "19236",
+        "introduction": "bangkok city serve a variety of authentic dishes to eat in or take away",
+        "location": [
+            52.206504,
+            0.119157
+        ],
+        "名稱": "曼谷城市酒店",
+        "電話": "01223354382",
+        "郵編": "cb23jx",
+        "價格範圍": "昂貴的",
+        "型別": "餐廳"
+    }
+]
