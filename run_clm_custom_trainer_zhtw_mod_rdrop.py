@@ -597,9 +597,7 @@ def main():
                 truncation=True,
                 return_tensors="pt",
             )["input_ids"]
-            print("=====history_tensor_batch_LEN=====:", history_tensor_batch.size()) ###
-            print("=====history_tensor_batch=====:", history_tensor_batch)  ###
-            print("==="*50)
+
             # for i in history_tensor_batch:
             #     print("After_decoding:", left_tokenizer.decode(i))
             # sys.exit()
@@ -633,10 +631,10 @@ def main():
 
             greedy_belief_states = []
             for i in range(0, len(beam_outputs.sequences), num_return_sequences):
-                print("iiiiiii", i)
+
                 tmp = []
                 id_outputs = beam_outputs.sequences[i : i + num_return_sequences]
-                print("id_outputs", id_outputs)
+
                 for id in id_outputs:
                     history_belief = tokenizer.decode(id, skip_special_tokens=False)
                     belief = (
@@ -671,13 +669,7 @@ def main():
                 self.find_eos_index(beam_output)
                 for beam_output in beam_outputs.sequences
             ]
-            print("*"*100)
-            print("beam_outputs.sequences", (beam_outputs.sequences))
-            print("batch_logits", len(batch_logits))
-            for log in batch_logits:
-                print(len(log))
-            print("batch_eos_index",(batch_eos_index))
-            print("*"*100)
+
             # sys.exit()
             truncate_logits = []
             truncate_actions = []
@@ -840,40 +832,21 @@ def main():
             torch.cuda.empty_cache()
             del q
             torch.cuda.empty_cache()
-            # print("p_loss", p_loss)
-            # print("p_loss")
-            # for i in p_loss:
-            #     print(i)
-            # print("==="*50)
-            # print("q_loss")
-            # for i in q_loss:
-            #     print(i)
-            # print("q_loss", q_loss)
-            print("p_loss.size", p_loss.size())
-            print("q_loss.size", q_loss.size())
+
 
             if batch_pad_index is not None:
                 for i in range(len(batch_pad_index)):
                     j = batch_pad_index[i]
-                    print("new_jjjj", j)
+
                     if j != 0:
                         p_loss[i][j:][:] = 0.
                         q_loss[i][j:][:] = 0.
-            print("new_p_loss")
-            for i in p_loss:
-                print(i)
-            print("new_p_loss.size", p_loss.size())
+
             p_loss = p_loss.sum(-1).mean()
-            print("sum_p_loss", p_loss)
-            print("***"*50)
-            print("new_q_loss")
-            for i in q_loss:
-                print(i)
-            print("new_q_loss.size", q_loss.size())
             q_loss = q_loss.sum(-1).mean()
-            print("sum_q_loss", q_loss)
+
             loss = (p_loss + q_loss) / 2
-            print("pq_sum_loss:", loss)
+
             del p_loss
             torch.cuda.empty_cache()
             del q_loss
@@ -920,35 +893,12 @@ def main():
                 sys.exit()
             elif r_drop_alpha:
                 print("R-Drop***********************")
-                # print("aaaa", inputs["input_ids"])
-                # for i in inputs["input_ids"]:
-                #     print(tokenizer.decode(i))
-                #     print(tokenizer.decode(i).count("[PAD]"))
-                # for i in inputs["input_ids"]:
-                #     i[-5:] = 5555
-                #     print(i)
-                # print("aaaa.size",inputs["input_ids"].size())
+
                 batch_pad_index = [
                     self.find_pad_index(input_mask)
                     for input_mask in inputs["input_ids"]
                 ]
-                # print("batch_pad_index:", batch_pad_index)
-                # *****
-                # for i in range(len(batch_pad_index)):
-                #     # for j in batch_pad_index[i]:
-                #         j = batch_pad_index[i]
-                #         # print("jjjj",j)
-                #         # if inputs["input_ids"][i][j] == 0:
-                #         if j != 0:
-                #             inputs["input_ids"][i][j:] = 100
-                # *****
-                # newwwww = [self.pad_2_none(batch_pad_index, i) for i in inputs["input_ids"]]
-                # print("newwwww" ,inputs["input_ids"])
-                # /////
-                # pad_mask = torch.where(inputs["input_ids"] == tokenizer.pad_token_id, 1, 0)
-                # print("pad_mask", pad_mask)
-                # print("pad_mask.size()", pad_mask.size())
-                # /////
+
 
                 inputs["labels"] = torch.where(
                     inputs["input_ids"] == tokenizer.pad_token_id,
@@ -956,12 +906,8 @@ def main():
                     inputs["input_ids"],
                 )
                 logits = model(**inputs)
-                # print(logits.logits)
                 logits2 = model(**inputs)
-                # print(logits2.logits.size())
-                # print("1:",len(logits))
-                # print("loss1:", logits.logits.size())
-                # print("loss2:", logits2.logits.size())
+
                 ce_loss = 0.5*(logits.loss + logits2.loss)
                 print("ce_loss", ce_loss)
 
